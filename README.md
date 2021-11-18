@@ -1,6 +1,9 @@
 # Jokes Bapack2 Extension for Visual Studio Code
 Enjoy jokes bapak2 while _ngoding_ on visual studio code
 
+## Screenshot
+![Screenshot Jokes Bapack2 Visual Studio Code Extension](/img/screenshot.png "Screenshot Jokes Bapack2 Visual Studio Code Extension")
+
 ## Requirements
 - Visual Studio Code
 - npm
