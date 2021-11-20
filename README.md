@@ -19,18 +19,16 @@ Enjoy jokes bapak2 from [jokes-bapack2-api](https://github.com/andhikayuana/joke
 - Type ```joke```
 - Hit <kbd>Enter</kbd>
 
-## How to Install This Hilarious Extension
-- Download [jokes-bapack-latest.vsix](https://github.com/miftahafina/jokes-bapack2-vscode/blob/master/dist/jokes-bapack-latest.vsix)
-- Open vscode
-- Open command palette using <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-- Type ```install from VSIX```
-- Press <kbd>Enter</kbd>
-- Select downloaded file (jokes-bapack-latest.vsix)
-- Press <kbd>Enter</kbd>
-- Wait until installation is complete
+## How to Install This Hilarious Extension from Marketplace
+- Press <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>
+- Type "jokesbapack2" to search this extension in marketplace
+- Click **Install** button
 
 ## How to Use
 - Open command palette using <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 - Type ```joke```
 - Press <kbd>Enter</kbd>
+
+## Link
+https://marketplace.visualstudio.com/items?itemName=miftahafina.jokes-bapack2
 
