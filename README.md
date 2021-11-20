@@ -2,7 +2,7 @@
 Enjoy jokes bapak2 from [jokes-bapack2-api](https://github.com/andhikayuana/jokes-bapack2-api) while _ngoding_ on visual studio code
 
 ## Screenshot
-![Screenshot Jokes Bapack2 Visual Studio Code Extension](/img/screenshot.png "Screenshot Jokes Bapack2 Visual Studio Code Extension")
+![Screenshot Jokes Bapack2 Visual Studio Code Extension](https://github.com/miftahafina/jokes-bapack2-vscode/raw/master/img/screenshot.png "Screenshot Jokes Bapack2 Visual Studio Code Extension")
 
 ## Requirements
 - Visual Studio Code
@@ -20,7 +20,7 @@ Enjoy jokes bapak2 from [jokes-bapack2-api](https://github.com/andhikayuana/joke
 - Hit <kbd>Enter</kbd>
 
 ## How to Install This Hilarious Extension
-- Download [jokes-bapack-latest.vsix](dist/jokes-bapack-latest.vsix)
+- Download [jokes-bapack-latest.vsix](https://github.com/miftahafina/jokes-bapack2-vscode/blob/master/dist/jokes-bapack-latest.vsix)
 - Open vscode
 - Open command palette using <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 - Type ```install from VSIX```

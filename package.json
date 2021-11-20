@@ -2,6 +2,7 @@
   "name": "jokes-bapack2",
   "displayName": "JokesBapack2",
   "description": "Show random jokes bapack2 masa kini!",
+  "publisher": "miftahafina",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.62.0"
@@ -9,6 +10,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/miftahafina/jokes-bapack2-vscode.git"
+  },
   "activationEvents": [
     "onCommand:jokes-bapack2.joke"
   ],

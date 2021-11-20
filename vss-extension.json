@@ -1,0 +1,27 @@
+{
+  "manifestVersion": 1,
+  "id": "jokes-bapack2",
+  "version": "0.0.1",
+  "name": "Jokes Bapack2",
+  "publisher": "miftahafina",
+  "targets": [
+      {
+          "id": "Microsoft.VisualStudio.Services"
+      }
+  ],
+  "icons": {
+    "default": "img/miftahafina.jpg"
+  },
+  "content": {
+    "details": {
+        "path": "README.md"
+    },
+    "license": {
+        "path": "LICENSE.md"
+    }
+  },
+  "repository": {
+      "type": "git",
+      "uri": "https://github.com/miftahafina/jokes-bapack2-vscode"
+  }
+}
