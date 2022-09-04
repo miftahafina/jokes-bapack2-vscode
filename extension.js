@@ -22,7 +22,7 @@ function activate(context) {
 		// The code you place here will be executed every time your command is executed
 
 		// Display a random joke to the user
-		axios.get('https://jokes-bapack2-api.herokuapp.com/v1/text/random')
+		axios.get('https://jokes-bapack2-api.yuana.id/v1/text/random')
 			.then(res => {
 				vscode.window.showInformationMessage(res.data.data);
 			});
