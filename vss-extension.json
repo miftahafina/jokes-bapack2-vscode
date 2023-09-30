@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "jokes-bapack2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "Jokes Bapack2",
   "publisher": "miftahafina",
   "targets": [
@@ -10,7 +10,7 @@
       }
   ],
   "icons": {
-    "default": "img/jokes-bapack2-image.jpeg"
+    "default": "img/jokes-bapack2-icon.png"
   },
   "content": {
     "details": {

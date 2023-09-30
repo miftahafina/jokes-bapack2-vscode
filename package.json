@@ -2,8 +2,9 @@
   "name": "jokes-bapack2",
   "displayName": "JokesBapack2",
   "description": "Show random jokes bapack2 masa kini!",
+  "icon": "img/jokes-bapack2-icon.png",
   "publisher": "miftahafina",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.62.0"
   },

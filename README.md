@@ -1,7 +1,7 @@
-![Screenshot Jokes Bapack2 Visual Studio Code Extension](https://github.com/miftahafina/jokes-bapack2-vscode/raw/master/img/jokes-bapack2-image.jpeg)
-
 # Jokes Bapack2 Extension for Visual Studio Code
 Enjoy jokes bapak2 from [jokes-bapack2-api](https://github.com/andhikayuana/jokes-bapack2-api) while _ngoding_ on visual studio code
+
+![Ahem](https://github.com/miftahafina/jokes-bapack2-vscode/raw/master/img/jokes-bapack2-image.jpeg)
 
 ## Screenshot
 ![Screenshot Jokes Bapack2 Visual Studio Code Extension](https://github.com/miftahafina/jokes-bapack2-vscode/raw/master/img/screenshot.png "Screenshot Jokes Bapack2 Visual Studio Code Extension")
